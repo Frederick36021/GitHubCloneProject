@@ -1,1 +1,2 @@
-this is the description of my repository
+Branching, Making Changes, and Resolving Merge Conflicts
+Modification in main branch.
